@@ -28,11 +28,13 @@
 
   <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Krishanthapathum&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Krishanthapathum">
-<br>
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishanthapathum&&langs_count=30&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Krishanthapathum">
+  </p>
+
+ 
   <br>
-  <br>
+   <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Krishanthapathum&theme=chartreuse-dark&hide_border=true" alt="Krishanthapathum"> 
   <br>
     </p>	
