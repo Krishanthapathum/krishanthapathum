@@ -58,7 +58,7 @@
 <!--  <img src="https://camo.githubusercontent.com/ddd267ee999e5e96853b3992b1f0c193674f0569fec7b643ef9c8ee44c15a034/68747470733a2f2f677076632e6172747572696f2e6465762f52616a6974686c6168697275"> -->
 	  
  <br>
- <br>
+
 <br>
 <a href="https://www.youtube.com/watch?v=KQBVOQ79G2s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br>
@@ -182,7 +182,7 @@
     </td>
  </tr>
 </table>
-<br><br>
+<br>
 
 </div>
 	
