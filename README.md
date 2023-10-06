@@ -5,14 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
-
-
 - 🌱 I’m currently learning MIS
 - 💻 I’m learning Desktop/Mobile Applications Development, Web Development, & Project Management
 - 🌟 I’m interested to collaborate on Open Source Projects and Commercial Projects
 - 💬 Ask me about Flutter, Dart
 - 📫 How to reach me **krishanthapathum9@gmail.com**
-
 </a>
 </p>
 
