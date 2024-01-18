@@ -9,13 +9,11 @@
 - 💻 I’m learning Desktop/Mobile Applications Development, Web Development, & Project Management
 - 🌟 I’m interested to collaborate on Open Source Projects and Commercial Projects
 - 💬 Ask me about Flutter, Dart
-- - See my Projects & Works **krishanthapathum.me**
-
-- 📫 How to reach me [**krishanthapathum9@gmail.com**](https://krishanthapathum.me)
+- - See my Projects & Works [**krishanthapathum.me**](https://krishanthapathum.me)
+- 📫 How to reach me **krishanthapathum9@gmail.com**
 </a>
 </p>
 
-https://krishanthapathum.me/
 
 <br>
 <a href="https://www.youtube.com/watch?v=KQBVOQ79G2s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
